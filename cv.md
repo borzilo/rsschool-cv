@@ -21,9 +21,9 @@ Create a function that takes an integer as an argument and returns "Even" for ev
 function evenOrOdd(number) {
   let evenOrOdd = ''
   if(number % 2) {
-    return task = 'Odd'
+    return evenOrOdd = 'Odd'
   } else {
-    return task = 'Even'
+    return evenOrOdd = 'Even'
   }
 }
 ```
